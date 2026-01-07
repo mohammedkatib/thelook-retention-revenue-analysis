@@ -1,4 +1,4 @@
-# Customer Retention Revenue Analysis – TheLook Ecommerce
+ # Customer Retention Revenue Analysis – TheLook Ecommerce
 
 ## Project Objective
 Evaluate revenue dependency on new versus returning customers and identify actions to improve customer retention efficiency.
